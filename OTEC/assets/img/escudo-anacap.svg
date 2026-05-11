@@ -1,0 +1,17 @@
+<svg width="400" height="500" viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Escudo Grande con borde grueso -->
+  <path d="M100 10 L180 40 L160 160 L100 220 L40 160 L20 40 Z" fill="#0a1628" stroke="#d4af37" stroke-width="6"/>
+  
+  <!-- Línea interna decorativa -->
+  <path d="M100 20 L170 45 L150 155 L100 210 L50 155 L30 45 Z" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Águila Central Detallada -->
+  <path d="M100 50 C80 50 50 70 40 90 L60 95 C70 80 85 70 95 65 C95 90 98 110 100 120 C102 110 105 90 105 65 C115 70 130 80 140 95 L160 90 C150 70 120 50 100 50 Z" fill="#d4af37"/>
+  
+  <!-- Cinta Azul inferior -->
+  <path d="M40 170 L160 170 L170 210 L100 230 L30 210 Z" fill="#1a2744" stroke="#d4af37" stroke-width="2"/>
+  
+  <!-- Texto en la cinta -->
+  <text x="100" y="195" font-family="Arial, sans-serif" font-weight="bold" font-size="20" fill="#ffffff" text-anchor="middle">ANACAP</text>
+  <text x="100" y="215" font-family="Arial, sans-serif" font-size="10" fill="#d4af37" text-anchor="middle" letter-spacing="1">ACADEMIA DE CAPACITACIÓN</text>
+</svg>
